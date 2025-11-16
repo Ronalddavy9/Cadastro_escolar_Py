@@ -18,5 +18,5 @@ O sistema realiza o **cadastro de alunos, disciplinas e notas**, seguindo o mode
 
 ## 🗂 Estrutura do Banco de Dados (SQLite)
 
-O sistema cria automaticamente o banco `cadastro_escolar.db` na primeira execução, contendo:
+O sistema cria automaticamente o banco `cadastro_escolar.db` na primeira execução.
 
