@@ -1,0 +1,44 @@
+{
+    "alunos": [
+        {
+            "matricula": "1",
+            "nome": "Ronald",
+            "dt_nascimento": "22/03/2002"
+        },
+        {
+            "matricula": "2",
+            "nome": "Cassio",
+            "dt_nascimento": "30/07/2002"
+        }
+    ],
+    "disciplinas": [
+        {
+            "id": 4,
+            "nome": "Dados",
+            "turno": "Noturno",
+            "sala": "5",
+            "professor": "Yuri"
+        },
+        {
+            "id": 5,
+            "nome": "Python",
+            "turno": "Noturno",
+            "sala": "3",
+            "professor": "João"
+        }
+    ],
+    "notas": [
+        {
+            "id": 11,
+            "aluno": "Ronald",
+            "disciplina": "Dados",
+            "valor": 6.0
+        },
+        {
+            "id": 12,
+            "aluno": "Cassio",
+            "disciplina": "Python",
+            "valor": 10.0
+        }
+    ]
+}
