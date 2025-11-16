@@ -9,6 +9,11 @@
             "matricula": "2",
             "nome": "Cassio",
             "dt_nascimento": "30/07/2002"
+        },
+        {
+            "matricula": "3",
+            "nome": "José",
+            "dt_nascimento": "12/12/2012"
         }
     ],
     "disciplinas": [
@@ -25,6 +30,13 @@
             "turno": "Noturno",
             "sala": "3",
             "professor": "João"
+        },
+        {
+            "id": 8,
+            "nome": "Java",
+            "turno": "Noturno",
+            "sala": "301",
+            "professor": "José"
         }
     ],
     "notas": [
@@ -39,6 +51,12 @@
             "aluno": "Cassio",
             "disciplina": "Python",
             "valor": 10.0
+        },
+        {
+            "id": 18,
+            "aluno": "José",
+            "disciplina": "Java",
+            "valor": 11.0
         }
     ]
 }
